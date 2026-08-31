@@ -15,46 +15,53 @@ Pregunta de datos
 
 Esta pregunta permite utilizar información histórica para realizar una analítica predictiva, ya que busca estimar un comportamiento futuro a partir de datos anteriores. La analítica predictiva utiliza datos históricos y patrones anteriores para realizar pronósticos sobre resultados futuros.
 
-2. Inventario de datos
+## 2. Data Inventory
 
-Para responder la pregunta se necesitan diferentes fuentes de datos relacionadas con el proceso de reservas.
+To answer the data question, the project requires information from different sources related to the hotel's reservation process.
 
-#	Fuente / Campo	Descripción	Tipo de dato
-1	ID de reserva	Identificador único de cada reserva	Estructurado
-2	Fecha de reserva	Fecha en la que se realizó la reserva	Estructurado
-3	Fecha de entrada	Día en que ingresa el huésped	Estructurado
-4	Fecha de salida	Día en que finaliza la estadía	Estructurado
-5	Tipo de habitación	Individual, doble, suite, etc.	Estructurado
-6	Tarifa por noche	Precio de la habitación por noche	Estructurado
-7	Estado de reserva	Confirmada, cancelada, completada, etc.	Estructurado
-8	Canal de reserva	Página web, teléfono, agencia, plataforma externa, etc.	Semiestructurado
-9	Comentarios del huésped	Opiniones y observaciones escritas por los clientes	No estructurado
-10	Registro de servicios	Spa, restaurante, lavandería y otros servicios consumidos	Estructurado / Semiestructurado
+### Structured Data
 
-Los datos estructurados se caracterizan por tener un modelo definido, mientras que los datos no estructurados no siguen necesariamente un esquema tabular; ejemplos de estos últimos incluyen textos, imágenes, audio y documentos. Los datos semiestructurados pueden contener metadatos o marcadores sin seguir completamente un modelo relacional.
+- **Reservation ID:** Unique identifier for each reservation.
+- **Reservation date:** Date when the reservation was created.
+- **Check-in date:** Date when the guest arrives at the hotel.
+- **Check-out date:** Date when the guest leaves the hotel.
+- **Room type:** Single, double, suite, etc.
+- **Room rate:** Price charged per night.
+- **Reservation status:** Confirmed, cancelled, completed, etc.
+- **Additional services:** Spa, restaurant, laundry, and other services consumed.
 
-Clasificación resumida
+### Semi-Structured Data
 
-Datos estructurados:
+- **Booking channel:** Website, phone, external platform, travel agency, etc.
+- **External platform records:** Reservation information received through formats such as JSON.
 
-ID de reserva
-Fecha de reserva
-Fecha de entrada
-Fecha de salida
-Tipo de habitación
-Tarifa
-Estado de reserva
-Servicios consumidos
+### Unstructured Data
 
-Datos semiestructurados:
+- **Guest comments:** Opinions, observations, and feedback written by customers.
+- **Attached documents:** Additional files or documents related to reservations.
 
-Canal de reserva
-Registros provenientes de plataformas externas en formatos como JSON.
+### Data Classification
 
-Datos no estructurados:
+```mermaid
+flowchart LR
+    A["DATA INVENTORY"]
 
-Comentarios y opiniones de huéspedes.
-Documentos o archivos adjuntos relacionados con las reservas.
+    A --> B["STRUCTURED"]
+    A --> C["SEMI-STRUCTURED"]
+    A --> D["UNSTRUCTURED"]
+
+    B --> B1["Reservation ID"]
+    B --> B2["Reservation dates"]
+    B --> B3["Room type"]
+    B --> B4["Room rate"]
+    B --> B5["Reservation status"]
+    B --> B6["Additional services"]
+
+    C --> C1["Booking channel"]
+    C --> C2["External platform records"]
+
+    D --> D1["Guest comments"]
+    D --> D2["Attached documents"]
 3. Tipo de analítica
 Analítica predictiva
 
@@ -91,24 +98,37 @@ Esto permite comprender el comportamiento histórico antes de construir una pred
 
 La analítica descriptiva responde principalmente qué ocurrió, mientras que la predictiva busca estimar qué podría ocurrir posteriormente.
 
-4. ¿Es un caso de Big Data?
-No necesariamente en su alcance actual.
+```markdown
+## 4. Is this a Big Data case?
 
-El proceso del hotel genera diferentes tipos de información y puede crecer con el tiempo, pero para un hotel boutique individual el volumen de datos normalmente puede ser manejado mediante bases de datos y herramientas convencionales.
+### Current Situation
 
-Para determinar si realmente se trata de un problema de Big Data se pueden analizar características como volumen, velocidad, variedad y variabilidad. NIST señala que un problema de Big Data se relaciona con conjuntos extensos de datos que requieren arquitecturas escalables para su almacenamiento, procesamiento y análisis.
+The project is **not considered a Big Data case at its current scale**.
 
-Análisis de las V
-V	Situación en el hotel	Evaluación
-Volumen	El hotel genera reservas, huéspedes y servicios, pero el volumen es limitado a escala individual.	Bajo/medio
-Velocidad	Las reservas pueden llegar durante todo el día, pero no necesariamente a una velocidad masiva.	Media
-Variedad	Existen datos estructurados, semiestructurados y textos de huéspedes.	Media
-Variabilidad	La demanda puede cambiar según temporadas, fines de semana, eventos y vacaciones.	Media/alta
+The hotel generates different types of information and the amount of data can increase over time. However, a single boutique hotel would normally have a moderate volume and processing speed that can be handled using conventional database technologies.
 
-Por lo tanto, el proyecto no se considera Big Data en su escala actual, aunque podría evolucionar hacia un escenario de Big Data si se integraran múltiples hoteles, plataformas de reservas, grandes cantidades de transacciones, datos en tiempo real y otras fuentes externas.
+### Big Data Analysis
 
-NIST relaciona Big Data con características como volumen, velocidad, variedad y variabilidad, especialmente cuando estas requieren una arquitectura escalable para procesar eficientemente los datos.
+The project can be evaluated using the main characteristics of Big Data:
 
+```mermaid
+mindmap
+  root((BIG DATA))
+    Volume
+      Moderate amount of reservations
+      Limited to one hotel
+    Velocity
+      Reservations arrive throughout the day
+      No massive real-time data flow
+    Variety
+      Structured data
+      Semi-structured data
+      Unstructured text
+    Variability
+      Seasonal demand
+      Weekends
+      Holidays
+      Special events
 ## 5. Data Life Cycle
 
 The data life cycle applied to the hotel reservation process is:
