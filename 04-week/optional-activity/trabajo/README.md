@@ -109,39 +109,6 @@ Por lo tanto, el proyecto no se considera Big Data en su escala actual, aunque p
 
 NIST relaciona Big Data con características como volumen, velocidad, variedad y variabilidad, especialmente cuando estas requieren una arquitectura escalable para procesar eficientemente los datos.
 
-5. Ciclo de vida del proyecto
-
-El ciclo de vida aplicado al proceso será:
-
-Pregunta → Obtener → Limpiar → Analizar → Visualizar → Decidir
-
-1. Pregunta
-
-Definir qué se quiere conocer.
-
-¿Cuál será la ocupación esperada durante las próximas semanas?
-
-2. Obtener
-
-Recolectar los datos provenientes del sistema de reservas, registros de huéspedes, cancelaciones, habitaciones y servicios.
-
-3. Limpiar
-
-Eliminar duplicados, corregir fechas incorrectas, tratar valores faltantes y estandarizar categorías como tipos de habitación y estados de reserva.
-
-4. Analizar
-
-Explorar los datos históricos para identificar patrones de ocupación, temporadas de alta demanda, cancelaciones y comportamiento de las reservas.
-
-5. Visualizar
-
-Crear gráficos y dashboards que permitan observar:
-
-Ocupación por mes.
-Ocupación por tipo de habitación.
-Reservas y cancelaciones.
-Demanda por día de la semana.
-Comparación entre períodos.
 ## 5. Data Life Cycle
 
 The data life cycle applied to the hotel reservation process is:
