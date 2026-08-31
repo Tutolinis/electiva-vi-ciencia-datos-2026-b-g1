@@ -142,45 +142,63 @@ Ocupación por tipo de habitación.
 Reservas y cancelaciones.
 Demanda por día de la semana.
 Comparación entre períodos.
-6. Decidir
+## 5. Data Life Cycle
 
-Utilizar los resultados para tomar decisiones sobre disponibilidad de habitaciones, planificación de recursos y estrategias para períodos de alta o baja demanda.
+The data life cycle applied to the hotel reservation process is:
 
-Diagrama
+**1. Question → 2. Obtain → 3. Clean → 4. Analyze → 5. Visualize → 6. Decide**
+
+| Step | Description |
+|---|---|
+| **1. Question** | Define the data question: What will the expected hotel occupancy be in the coming weeks? |
+| **2. Obtain** | Collect reservation, guest, room, cancellation, and service data. |
+| **3. Clean** | Remove duplicates, correct errors, handle missing values, and standardize the data. |
+| **4. Analyze** | Identify historical occupancy patterns, demand trends, and cancellations. |
+| **5. Visualize** | Create charts and dashboards to represent occupancy and demand. |
+| **6. Decide** | Use the results to plan room availability and hotel resources. |
+
+### Data Life Cycle Diagram
+
+```text
 ┌───────────────┐
-│    PREGUNTA   │
-│ ¿Qué demanda  │
-│ se espera?    │
+│   QUESTION    │
+│ Define the    │
+│ data problem  │
 └───────┬───────┘
-        ↓
+        │
+        ▼
 ┌───────────────┐
-│    OBTENER    │
-│ Reservas,     │
-│ huéspedes...  │
+│    OBTAIN     │
+│ Collect the   │
+│ required data │
 └───────┬───────┘
-        ↓
+        │
+        ▼
 ┌───────────────┐
-│    LIMPIAR    │
-│ Errores,      │
-│ duplicados... │
+│     CLEAN     │
+│ Prepare and   │
+│ validate data │
 └───────┬───────┘
-        ↓
+        │
+        ▼
 ┌───────────────┐
-│    ANALIZAR   │
-│ Patrones y    │
-│ tendencias    │
+│    ANALYZE    │
+│ Find patterns │
+│ and trends    │
 └───────┬───────┘
-        ↓
+        │
+        ▼
 ┌───────────────┐
-│  VISUALIZAR   │
-│ Gráficos y    │
+│  VISUALIZE    │
+│ Charts and    │
 │ dashboards    │
 └───────┬───────┘
-        ↓
+        │
+        ▼
 ┌───────────────┐
-│    DECIDIR    │
-│ Planificar    │
-│ habitaciones  │
+│    DECIDE     │
+│ Make informed │
+│ decisions     │
 └───────────────┘
 6. Problem & Data
 
