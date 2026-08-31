@@ -141,13 +141,13 @@ El ciclo de vida aplicado al proceso será:
   ↓
 * **6. DECIDIR:** Planificar habitaciones y tarifas
 
-6. Problem & Data
+## 6. Problem & Data
 The selected process is the management of reservations and room occupancy in a boutique hotel. The main problem is the difficulty of understanding historical demand and anticipating future room occupancy. The data required includes reservation dates, check-in and check-out dates, room types, prices, reservation status, booking channels, cancellations, and additional services. Some data is structured, while other information, such as guest comments, can be unstructured or semi-structured. The main type of analytics is predictive analytics because the objective is to forecast future hotel occupancy using historical data. The project is not considered Big Data at its current scale because the volume and velocity of the data do not require a scalable Big Data architecture.
 
-7. Conclusión
+## 7. Conclusión
 El diagnóstico permite identificar que la gestión de reservas de un hotel genera diferentes tipos de datos que pueden utilizarse para mejorar la toma de decisiones. El análisis descriptivo permite comprender el comportamiento histórico de la ocupación, mientras que la analítica predictiva permite anticipar la demanda futura. Aunque el proceso presenta variedad y variabilidad en sus datos, actualmente no alcanza necesariamente las características de un problema de Big Data debido a su volumen y velocidad moderados. La aplicación del ciclo de vida de datos permite transformar los registros obtenidos en información útil para la planificación y gestión del hotel.
 
-8. Bibliografía
+## 8. Bibliografía
 IBM. (2024). What is predictive analytics? IBM Think. https://www.ibm.com/topics/predictive-analytics
 
 IBM. (2024). What is Big Data? IBM Think. https://www.ibm.com/topics/big-data
