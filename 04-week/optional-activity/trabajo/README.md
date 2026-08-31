@@ -124,52 +124,23 @@ El ciclo de vida aplicado al proceso será:
 2. **Obtener:** Recolectar los datos provenientes del sistema de reservas, registros de huéspedes, cancelaciones, habitaciones y servicios.
 3. **Limpiar:** Eliminar duplicados, corregir fechas incorrectas, tratar valores faltantes y estandarizar categorías como tipos de habitación y estados de reserva.
 4. **Analizar:** Explorar los datos históricos para identificar patrones de ocupación, temporadas de alta demanda, cancelaciones y comportamiento de las reservas.
-5. **Visualizar:** Crear gráficos y dashboards que permitan observar:
-   * Ocupación por mes.
-   * Ocupación por tipo de habitación.
-   * Reservas y cancelaciones.
-   * Demanda por día de la semana.
-   * Comparación entre períodos.
-6. **Decidir:** Utilizar los resultados para tomar decisiones sobre disponibilidad de habitaciones, planificación de recursos y estrategias para períodos de alta o baja demanda.
+5. **Visualizar:** Crear gráficos y dashboards que permitan observar ocupación, cancelaciones y demanda por día/mes.
+6. **Decidir:** Utilizar los resultados para tomar decisiones sobre disponibilidad de habitaciones y planificación de recursos.
 
-### Diagrama del Ciclo de Vida
+### Flujo del proceso
 
-```text
-┌───────────────┐
-│  1. PREGUNTA  │
-│ ¿Qué demanda  │
-│  se espera?   │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│  2. OBTENER   │
-│   Reservas,   │
-│ huéspedes...  │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│  3. LIMPIAR   │
-│   Errores,    │
-│ duplicados... │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│  4. ANALIZAR  │
-│  Patrones y   │
-│  tendencias   │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│ 5. VISUALIZAR │
-│  Gráficos y   │
-│  dashboards   │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│  6. DECIDIR   │
-│  Planificar   │
-│ habitaciones  │
-└───────────────┘
+* **1. PREGUNTA:** ¿Qué demanda se espera?
+  ↓
+* **2. OBTENER:** Reservas, huéspedes, cancelaciones...
+  ↓
+* **3. LIMPIAR:** Errores, duplicados, nulos...
+  ↓
+* **4. ANALIZAR:** Patrones y tendencias
+  ↓
+* **5. VISUALIZAR:** Gráficos y dashboards
+  ↓
+* **6. DECIDIR:** Planificar habitaciones y tarifas
+
 6. Problem & Data
 The selected process is the management of reservations and room occupancy in a boutique hotel. The main problem is the difficulty of understanding historical demand and anticipating future room occupancy. The data required includes reservation dates, check-in and check-out dates, room types, prices, reservation status, booking channels, cancellations, and additional services. Some data is structured, while other information, such as guest comments, can be unstructured or semi-structured. The main type of analytics is predictive analytics because the objective is to forecast future hotel occupancy using historical data. The project is not considered Big Data at its current scale because the volume and velocity of the data do not require a scalable Big Data architecture.
 
