@@ -134,15 +134,42 @@ El ciclo de vida aplicado al proceso será:
 
 ### Diagrama del Ciclo de Vida
 
-```mermaid
-flowchart TD
-    A["1. PREGUNTA<br/>¿Qué demanda se espera?"] --> B["2. OBTENER<br/>Reservas, huéspedes..."]
-    B --> C["3. LIMPIAR<br/>Errores, duplicados..."]
-    C --> D["4. ANALIZAR<br/>Patrones y tendencias"]
-    D --> E["5. VISUALIZAR<br/>Gráficos y dashboards"]
-    E --> F["6. DECIDIR<br/>Planificar habitaciones"]
-
-
+```text
+┌───────────────┐
+│  1. PREGUNTA  │
+│ ¿Qué demanda  │
+│  se espera?   │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  2. OBTENER   │
+│   Reservas,   │
+│ huéspedes...  │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  3. LIMPIAR   │
+│   Errores,    │
+│ duplicados... │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  4. ANALIZAR  │
+│  Patrones y   │
+│  tendencias   │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ 5. VISUALIZAR │
+│  Gráficos y   │
+│  dashboards   │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  6. DECIDIR   │
+│  Planificar   │
+│ habitaciones  │
+└───────────────┘
 6. Problem & Data
 The selected process is the management of reservations and room occupancy in a boutique hotel. The main problem is the difficulty of understanding historical demand and anticipating future room occupancy. The data required includes reservation dates, check-in and check-out dates, room types, prices, reservation status, booking channels, cancellations, and additional services. Some data is structured, while other information, such as guest comments, can be unstructured or semi-structured. The main type of analytics is predictive analytics because the objective is to forecast future hotel occupancy using historical data. The project is not considered Big Data at its current scale because the volume and velocity of the data do not require a scalable Big Data architecture.
 
