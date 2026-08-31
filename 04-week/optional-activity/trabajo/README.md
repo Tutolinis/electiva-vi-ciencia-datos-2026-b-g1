@@ -180,6 +180,7 @@ Diagrama
 └───────────────┘
 
 6. Problem & Data
+   
 The selected process is the management of reservations and room occupancy in a boutique hotel.
 The main problem is the difficulty of understanding historical demand and anticipating future room occupancy.
 The data required includes reservation dates, check-in and check-out dates, room types, prices, reservation status, booking channels, cancellations, and additional services.
@@ -189,9 +190,10 @@ The project is not considered Big Data at its current scale because the volume a
 
 
 7. Conclusión
+   
 El diagnóstico permite identificar que la gestión de reservas de un hotel genera diferentes tipos de datos que pueden utilizarse para mejorar la toma de decisiones. El análisis descriptivo permite comprender el comportamiento histórico de la ocupación, mientras que la analítica predictiva permite anticipar la demanda futura. Aunque el proceso presenta variedad y variabilidad en sus datos, actualmente no alcanza necesariamente las características de un problema de Big Data debido a su volumen y velocidad moderados. La aplicación del ciclo de vida de datos permite transformar los registros obtenidos en información útil para la planificación y gestión del hotel.
 
-8. Bibliografía
+9. Bibliografía
 
 IBM. (2024). What is predictive analytics? IBM Think. IBM – What is Predictive Analytics?
 IBM. (2024). What is Big Data? IBM Think. IBM – What is Big Data?
