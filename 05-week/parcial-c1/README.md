@@ -31,8 +31,9 @@
 Sistemas de ventas   ---> Base de datos PostgreSQL   ---> Consultas SQL y modelos  ---> Tableros interactivos
 y registros web           y Amazon S3 (Archivos)        de aprendizaje automático    en Power BI / Metabase
 
+---
 
-4. Difference Between Descriptive and Predictive Analytics
+## 4. Difference Between Descriptive and Predictive Analytics
 
 Descriptive analytics focuses on summarizing historical data to explain what has already happened in the business.
 Predictive analytics utilizes statistical models and historical trends to forecast future outcomes and behaviors.
