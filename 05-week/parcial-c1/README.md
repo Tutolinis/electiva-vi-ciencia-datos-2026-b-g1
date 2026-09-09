@@ -26,14 +26,13 @@
 
 ## 3. Diagrama de Flujo de Datos
 
-```text
-[ Fuente ]                [ Almacenamiento ]             [ Análisis ]                  [ Visualización ]
-Sistemas de ventas   ---> Base de datos PostgreSQL   ---> Consultas SQL y modelos  ---> Tableros interactivos
-y registros web           y Amazon S3 (Archivos)        de aprendizaje automático    en Power BI / Metabase
+    [ Fuente ]                [ Almacenamiento ]             [ Análisis ]                  [ Visualización ]
+    Sistemas de ventas   ---> Base de datos PostgreSQL   ---> Consultas SQL y modelos  ---> Tableros interactivos
+    y registros web           y Amazon S3 (Archivos)        de aprendizaje automático    en Power BI / Metabase
 
-` ``` `
+---
 
-4. Difference Between Descriptive and Predictive Analytics
-Descriptive analytics focuses on summarizing historical data to explain what has already happened in the business.
+## 4. Difference Between Descriptive and Predictive Analytics
 
-Predictive analytics utilizes statistical models and historical trends to forecast future outcomes and behaviors.
+1. Descriptive analytics focuses on summarizing historical data to explain what has already happened in the business.
+2. Predictive analytics utilizes statistical models and historical trends to forecast future outcomes and behaviors.
