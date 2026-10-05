@@ -1,0 +1,531 @@
+id_pedido,fecha,cliente_id,cliente_nombre,ciudad,producto,categoria,precio,cantidad,metodo_pago
+389,2026-08-25,3,Maria Gomez,,Mouse,Tecnologia,45000,1,Efectivo
+499,2026-09-08,3,Maria Gomez,Medellin,Audifonos,Tecnologia,,4,
+139,2026-09-09,8,Andres Vega,Neiva,Lampara,,"$85,000",5,Tarjeta
+427,2026-05-21,10,Diego Castro,Cali,Cafetera,Hogar,260000,2,Efectivo
+66,2026-01-11,3,,Medellin,Teclado,Tecnologia,120000,1,Efectivo
+485,2026-01-29,8,Andres Vega,Neiva, teclado  ,Tecnologia,120000,,Efectivo
+472,2026-03-01,5,Sofia Diaz,Neiva,Audifonos,Tecnologia,180000,4,Tarjeta
+4,2026-02-04,6,Juan Mora,Bogota,Cafetera,Hogar,260000,5,Efectivo
+323,30/06/2026,2,Luis Perez,Bogota,Cafetera,Hogar,260000,4,
+260,02/07/2026,3,Maria Gomez,Medellin,Jean,Ropa,130000,3,Tarjeta
+290,2026-09-17,10,Diego Castro,Cali,Laptop,,"$2,500,000",4,Tarjeta
+387,2026-08-14,5,Sofia Diaz,Neiva,Laptop,Tecnologia,"$2,500,000",5,Tarjeta
+268,2026-03-22,7,Laura Rojas,Pitalito,Lampara,Hogar,85000,4,Efectivo
+56,2026-07-31,5,Sofia Diaz,Neiva,Camiseta,Ropa,55000,1,Tarjeta
+155,2026-01-02,10,Diego Castro,Cali,Zapatos,Ropa,210000,4,Transferencia
+146,2026-01-24,8,Andres Vega,Neiva,Mouse,Tecnologia,45000,3,Efectivo
+319,14/04/2026,4,Carlos Ruiz,CALI,Cafetera,Hogar,260000,1,Transferencia
+461,2026-06-03,2,Luis Perez,BOGOTA,Teclado,Tecnologia,120000,5,Transferencia
+243,2026-05-05,8,Andres Vega,Neiva,Zapatos,Ropa,210000,5,Tarjeta
+294,2026-04-14,7,Laura Rojas,Pitalito,Mouse,Tecnologia,45000,4,tarjeta
+474,2026-02-17,4,Carlos Ruiz,CALI,Laptop,Tecnologia,2500000,1,Tarjeta
+274,03/05/2026,4,Carlos Ruiz,Cali,Laptop,Tecnologia,2500000,5,Efectivo
+91,2026-05-15,10,Diego Castro,Cali,Lampara,Hogar,85000,1,
+284,29/04/2026,7,Laura Rojas,Pitalito,Cafetera,Hogar,260000,5,Efectivo
+365,23/03/2026,8,Andres Vega,Neiva,Audifonos,Tecnologia,180000,5,Transferencia
+163,2026-07-04,9,Paula Leon,Medellin,Laptop,Tecnologia,2500000,2,Transferencia
+439,19/03/2026,5,Sofia Diaz,Neiva,Audifonos,Tecnologia,180000,2,Efectivo
+67,2026-03-25,4,Carlos Ruiz,Cali,Jean,Ropa,"$130,000",5,Efectivo
+222,2026-09-02,3,Maria Gomez,Medellin,Mouse,Tecnologia,45000,5,Tarjeta
+189,2026-09-04,5,Sofia Diaz,Neiva,Zapatos,Ropa,210000,3,Tarjeta
+90,2026-09-16,4,Carlos Ruiz,Cali,Zapatos,Ropa,210000,3,Tarjeta
+24,2026-02-07,1,Ana Torres,Neiva,Jean,Ropa,130000,2,Tarjeta
+102,2026-03-08,6,Juan Mora,Bogota,Camiseta,Ropa,55000,2,Tarjeta
+190,2026-02-06,10,Diego Castro,Cali,Mouse,Tecnologia,45000,5,Tarjeta
+323,30/06/2026,2,Luis Perez,Bogota,Cafetera,Hogar,260000,4,
+14,2026-04-11,10,Diego Castro,Cali,Audifonos,Tecnologia,180000,1,Efectivo
+221,06/09/2026,5,Sofia Diaz,Neiva,Camiseta,Ropa,"$55,000",1,Tarjeta
+453,2026-01-09,10,Diego Castro,Cali,Laptop,Tecnologia,2500000,3,tarjeta
+385,2026-08-11,6,Juan Mora,Bogota,Audifonos,Tecnologia,180000,3,Efectivo
+33,2026-04-21,7,Laura Rojas,PITALITO,Lampara,Hogar,"$85,000",3,Efectivo
+322,2026-06-10,2,Luis Perez,BOGOTA,Licuadora,Hogar,190000,2,Tarjeta
+413,2026-02-10,6,Juan Mora,Bogota,Licuadora,Hogar,190000,4,Efectivo
+119,2026-03-06,10,,Cali,Licuadora,Hogar,190000,5,Tarjeta
+165,2026-02-06,7,Laura Rojas,Pitalito,Laptop,Tecnologia,2500000,4,Efectivo
+377,2026-02-18,3,Maria Gomez,Medellin,Audifonos,Tecnologia,180000,5,Efectivo
+156,2026-02-01,5,,Neiva, lampara  ,Hogar,85000,2,Transferencia
+285,2026-06-09,10,Diego Castro,Cali,Lampara,Hogar,85000,4,
+52,2026-01-28,7,Laura Rojas,Pitalito,Mouse,Tecnologia,45000,1,efectivo
+51,2026-02-20,5,Sofia Diaz,NEIVA,Mouse,Tecnologia,45000,2,Efectivo
+430,2026-09-10,2,Luis Perez,Bogota,Camiseta,Ropa,,5,Transferencia
+26,2026-07-26,1,Ana Torres,Neiva,Jean,Ropa,130000,3,Efectivo
+275,2026-05-02,4,Carlos Ruiz,Cali,Licuadora,Hogar,190000,3,Transferencia
+379,2026-08-26,3,Maria Gomez,Medellin,Mouse,Tecnologia,45000,4,Tarjeta
+470,2026-07-23,4,Carlos Ruiz,Cali,Teclado,Tecnologia,120000,2,Efectivo
+257,2026-04-17,8,Andres Vega,NEIVA,Cafetera,,,5,Efectivo
+169,2026-09-03,7,Laura Rojas,Pitalito,Teclado,Tecnologia,120000,1,Tarjeta
+441,2026-01-11,1,Ana Torres,Neiva,Audifonos,Tecnologia,"$180,000",2,Efectivo
+194,27/03/2026,7,Laura Rojas,Pitalito,Jean,Ropa,130000,5,Tarjeta
+376,2026-08-30,3,Maria Gomez,Medellin,Mouse,Tecnologia,45000,4,Tarjeta
+180,2026-01-15,6,Juan Mora,,Zapatos,Ropa,210000,1,Efectivo
+219,2026-08-16,5,Sofia Diaz,Neiva,Jean,Ropa,130000,2,Tarjeta
+317,2026-05-20,3,Maria Gomez,Medellin,Teclado,Tecnologia,120000,3,Efectivo
+160,2026-05-04,10,Diego Castro,Cali,Teclado,Tecnologia,120000,2,Efectivo
+41,2026-05-14,10,Diego Castro,Cali, audifonos  ,Tecnologia,180000,4,Efectivo
+451,2026-03-07,6,Juan Mora,Bogota,Jean,Ropa,130000,3,Tarjeta
+110,2026-06-09,5,Sofia Diaz,Neiva, laptop  ,,2500000,3,Transferencia
+83,2026-03-17,3,Maria Gomez,Medellin,Mouse,,45000,1,Tarjeta
+369,09/08/2026,1,Ana Torres,Neiva, camiseta  ,Ropa,55000,5,Transferencia
+133,2026-01-10,8,Andres Vega,,Mouse,Tecnologia,45000,2,Efectivo
+443,13/06/2026,8,Andres Vega,Neiva,Zapatos,Ropa,210000,1,Tarjeta
+396,2026-04-03,10,Diego Castro,CALI,Laptop,Tecnologia,2500000,1,Transferencia
+223,2026-02-21,3,Maria Gomez,Medellin,Zapatos,Ropa,210000,2,Tarjeta
+343,2026-08-26,5,Sofia Diaz,NEIVA,Audifonos,Tecnologia,180000,4,Efectivo
+121,2026-07-19,8,Andres Vega,Neiva,Zapatos,Ropa,210000,1,Transferencia
+478,2026-09-21,10,Diego Castro,Cali, licuadora  ,Hogar,190000,5,Transferencia
+238,2026-06-11,2,Luis Perez,Bogota,Audifonos,Tecnologia,,3,Tarjeta
+217,2026-09-16,10,Diego Castro,Cali,Lampara,Hogar,85000,3,Tarjeta
+497,2026-02-18,9,Paula Leon,Medellin,Zapatos,Ropa,210000,2,Efectivo
+391,2026-01-20,7,Laura Rojas,,Lampara,Hogar,,3,Transferencia
+489,03/01/2026,1,Ana Torres,Neiva,Audifonos,Tecnologia,180000,2,Efectivo
+314,2026-06-12,10,Diego Castro,Cali,Camiseta,Ropa,55000,,Transferencia
+328,17/06/2026,2,Luis Perez,Bogota,Jean,Ropa,130000,1,Tarjeta
+335,2026-03-14,6,Juan Mora,BOGOTA,Cafetera,Hogar,260000,4,Transferencia
+269,2026-02-02,2,Luis Perez,Bogota,Jean,Ropa,130000,3,Tarjeta
+436,2026-05-10,2,Luis Perez,Bogota,Cafetera,,260000,4,Efectivo
+455,22/03/2026,4,Carlos Ruiz,Cali,Audifonos,Tecnologia,180000,3,
+494,2026-07-03,4,Carlos Ruiz,, mouse  ,Tecnologia,,1,Tarjeta
+457,2026-03-29,4,Carlos Ruiz,Cali,Cafetera,Hogar,,4,Transferencia
+61,03/01/2026,9,Paula Leon,Medellin,Audifonos,Tecnologia,180000,5,Efectivo
+241,2026-09-23,5,Sofia Diaz,Neiva,Licuadora,Hogar,190000,4,Efectivo
+491,2026-01-26,9,Paula Leon,MEDELLIN,Licuadora,Hogar,190000,3,Transferencia
+465,2026-04-02,1,Ana Torres,Neiva,Laptop,Tecnologia,"$2,500,000",4,Transferencia
+278,29/03/2026,6,Juan Mora,Bogota,Teclado,Tecnologia,120000,5,Transferencia
+236,2026-02-21,4,Carlos Ruiz,Cali, audifonos  ,Tecnologia,"$180,000",2,Tarjeta
+366,2026-09-23,2,Luis Perez,Bogota,Lampara,Hogar,85000,4,Transferencia
+375,12/06/2026,3,Maria Gomez,MEDELLIN,Laptop,Tecnologia,2500000,5,efectivo
+98,2026-05-24,4,Carlos Ruiz,,Teclado,Tecnologia,120000,4,
+116,2026-05-22,10,,Cali,Audifonos,Tecnologia,180000,5,
+476,07/02/2026,9,Paula Leon,Medellin,Lampara,Hogar,85000,5,Efectivo
+383,01/01/2026,9,Paula Leon,,Laptop,Tecnologia,2500000,,Tarjeta
+398,2026-02-27,9,Paula Leon,Medellin,Cafetera,Hogar,260000,2,Transferencia
+148,2026-04-01,8,Andres Vega,Neiva,Zapatos,Ropa,210000,4,Transferencia
+408,2026-01-11,6,Juan Mora,Bogota, licuadora  ,Hogar,190000,5,Efectivo
+147,2026-09-06,5,Sofia Diaz,NEIVA,Cafetera,Hogar,260000,,Tarjeta
+91,2026-05-15,10,Diego Castro,Cali,Lampara,Hogar,85000,1,
+31,2026-09-05,3,Maria Gomez,,Licuadora,Hogar,190000,2,Efectivo
+23,2026-05-31,8,Andres Vega,Neiva,Teclado,Tecnologia,120000,3,efectivo
+428,2026-01-07,6,Juan Mora,BOGOTA,Zapatos,Ropa,210000,3,efectivo
+282,2026-08-25,4,Carlos Ruiz,Cali,Mouse,Tecnologia,45000,1,Tarjeta
+32,2026-05-31,2,Luis Perez,Bogota,Zapatos,Ropa,210000,3,
+312,2026-07-28,9,Paula Leon,Medellin,Mouse,Tecnologia,45000,5,Transferencia
+21,2026-08-06,2,Luis Perez,,Licuadora,Hogar,190000,1,Transferencia
+229,09/09/2026,4,Carlos Ruiz,Cali,Licuadora,Hogar,190000,5,Tarjeta
+114,2026-03-09,3,Maria Gomez,Medellin,Teclado,Tecnologia,120000,4,Efectivo
+53,22/03/2026,2,Luis Perez,Bogota,Cafetera,,260000,5,Transferencia
+1,2026-06-26,8,Andres Vega,Neiva,Laptop,Tecnologia,2500000,3,Efectivo
+262,2026-03-06,3,Maria Gomez,Medellin,Zapatos,,210000,3,Transferencia
+371,2026-05-03,3,,MEDELLIN, laptop  ,Tecnologia,2500000,1,Tarjeta
+279,2026-09-23,6,Juan Mora,Bogota,Audifonos,Tecnologia,180000,4,Tarjeta
+368,2026-03-24,10,Diego Castro,Cali,Mouse,Tecnologia,45000,2,Efectivo
+57,2026-07-01,5,Sofia Diaz,NEIVA,Teclado,Tecnologia,"$120,000",3,Efectivo
+452,2026-06-26,8,Andres Vega,Neiva,Zapatos,Ropa,210000,1,Transferencia
+3,2026-07-18,10,Diego Castro,,Jean,Ropa,130000,4,Transferencia
+480,2026-03-20,10,Diego Castro,,Zapatos,Ropa,"$210,000",2,Transferencia
+59,2026-09-15,3,Maria Gomez,Medellin,Licuadora,Hogar,190000,2,efectivo
+388,2026-05-30,4,Carlos Ruiz,Cali,Mouse,,"$45,000",5,Tarjeta
+205,2026-08-23,1,Ana Torres,Neiva, laptop  ,Tecnologia,2500000,5,Transferencia
+450,2026-02-17,6,Juan Mora,BOGOTA,Licuadora,Hogar,190000,1,Efectivo
+458,2026-08-10,10,Diego Castro,Cali,Licuadora,Hogar,190000,-1,Efectivo
+487,2026-02-13,6,Juan Mora,Bogota,Mouse,Tecnologia,45000,2,Efectivo
+75,2026-04-21,7,Laura Rojas,Pitalito,Audifonos,Tecnologia,180000,2,
+293,2026-01-13,4,Carlos Ruiz,Cali,Cafetera,Hogar,260000,1,Transferencia
+447,11/09/2026,1,Ana Torres,Neiva,Zapatos,Ropa,210000,1,Efectivo
+329,2026-05-01,1,Ana Torres,Neiva,Cafetera,Hogar,260000,3,Tarjeta
+81,2026-03-28,8,Andres Vega,Neiva, lampara  ,Hogar,85000,5,Efectivo
+265,2026-05-29,3,Maria Gomez,MEDELLIN, mouse  ,Tecnologia,"$45,000",5,Transferencia
+27,2026-01-25,6,Juan Mora,Bogota,Jean,Ropa,130000,3,Transferencia
+331,2026-01-15,1,Ana Torres,Neiva, mouse  ,Tecnologia,45000,,Tarjeta
+352,2026-06-14,4,Carlos Ruiz,Cali, audifonos  ,Tecnologia,180000,3,Efectivo
+492,2026-09-10,9,Paula Leon,Medellin,Camiseta,Ropa,55000,3,Tarjeta
+166,2026-08-31,7,Laura Rojas,Pitalito,Laptop,Tecnologia,2500000,5,Tarjeta
+174,2026-08-15,9,Paula Leon,Medellin,Zapatos,Ropa,210000,3,Tarjeta
+109,2026-02-22,1,Ana Torres,Neiva,Cafetera,Hogar,260000,1,Transferencia
+15,05/05/2026,2,Luis Perez,Bogota,Cafetera,Hogar,260000,1,Transferencia
+203,2026-03-08,8,Andres Vega,Neiva,Teclado,Tecnologia,120000,2,Efectivo
+115,2026-03-18,5,Sofia Diaz,Neiva,Lampara,Hogar,"$85,000",1,Tarjeta
+415,19/04/2026,7,Laura Rojas,Pitalito,Mouse,Tecnologia,45000,,Transferencia
+434,2026-08-16,4,Carlos Ruiz,,Lampara,Hogar,"$85,000",5,Transferencia
+60,2026-04-29,9,Paula Leon,Medellin,Jean,Ropa,130000,2,Tarjeta
+174,2026-08-15,9,Paula Leon,Medellin,Zapatos,Ropa,210000,3,Tarjeta
+99,2026-07-23,9,Paula Leon,Medellin,Lampara,Hogar,85000,4,
+334,2026-07-02,8,Andres Vega,Neiva,Audifonos,Tecnologia,180000,3,Transferencia
+245,2026-09-17,6,Juan Mora,Bogota,Zapatos,,210000,4,Efectivo
+42,2026-09-19,8,Andres Vega,Neiva,Teclado,Tecnologia,120000,2,
+411,2026-04-08,4,Carlos Ruiz,Cali,Mouse,Tecnologia,45000,5,
+233,2026-08-17,5,Sofia Diaz,Neiva,Jean,Ropa,130000,3,Efectivo
+246,2026-09-23,2,Luis Perez,Bogota,Lampara,Hogar,85000,1,Tarjeta
+80,2026-02-23,1,Ana Torres,Neiva, licuadora  ,Hogar,190000,2,tarjeta
+29,2026-03-16,3,Maria Gomez,,Lampara,Hogar,85000,3,Transferencia
+244,17/07/2026,6,Juan Mora,Bogota,Mouse,Tecnologia,45000,5,Efectivo
+151,2026-01-24,2,Luis Perez,Bogota,Lampara,Hogar,85000,5,Efectivo
+402,2026-02-11,5,Sofia Diaz,NEIVA,Mouse,Tecnologia,45000,4,Efectivo
+272,2026-02-06,4,Carlos Ruiz,CALI,Camiseta,Ropa,"$55,000",1,Efectivo
+218,2026-09-25,9,Paula Leon,MEDELLIN,Licuadora,,190000,4,Tarjeta
+304,2026-01-14,5,Sofia Diaz,Neiva,Lampara,Hogar,85000,3,Efectivo
+58,2026-06-04,2,Luis Perez,Bogota,Lampara,Hogar,85000,3,Efectivo
+464,2026-04-28,1,Ana Torres,Neiva,Laptop,Tecnologia,2500000,5,Transferencia
+63,02/02/2026,7,Laura Rojas,Pitalito,Zapatos,Ropa,210000,2,Tarjeta
+410,2026-05-24,5,Sofia Diaz,Neiva,Lampara,Hogar,85000,4,Efectivo
+112,2026-08-25,8,Andres Vega,NEIVA,Jean,Ropa,130000,4,Transferencia
+85,2026-07-26,7,Laura Rojas,PITALITO,Lampara,Hogar,85000,3,Efectivo
+418,2026-06-28,8,Andres Vega,,Zapatos,Ropa,210000,2,Tarjeta
+240,2026-09-23,8,Andres Vega,Neiva,Zapatos,Ropa,"$210,000",5,Efectivo
+249,2026-09-18,8,Andres Vega,Neiva,Jean,Ropa,130000,3,Transferencia
+467,14/03/2026,9,Paula Leon,Medellin,Laptop,Tecnologia,2500000,5,Efectivo
+130,2026-05-25,5,Sofia Diaz,Neiva,Audifonos,Tecnologia,180000,5,Transferencia
+356,2026-02-13,4,Carlos Ruiz,Cali,Mouse,Tecnologia,,2,Transferencia
+97,2026-03-09,9,Paula Leon,Medellin,Teclado,Tecnologia,120000,4,Efectivo
+237,2026-07-06,10,Diego Castro,Cali,Zapatos,Ropa,210000,3,Efectivo
+178,2026-02-22,1,Ana Torres,Neiva,Cafetera,Hogar,,1,Tarjeta
+390,05/09/2026,2,Luis Perez,BOGOTA,Mouse,Tecnologia,45000,1,Tarjeta
+32,2026-05-31,2,Luis Perez,Bogota,Zapatos,Ropa,210000,3,
+142,2026-06-04,1,Ana Torres,,Jean,Ropa,130000,3,Efectivo
+490,24/06/2026,8,Andres Vega,Neiva,Licuadora,Hogar,"$190,000",4,Tarjeta
+214,23/06/2026,10,Diego Castro,Cali,Audifonos,Tecnologia,180000,2,Tarjeta
+104,2026-01-18,9,Paula Leon,Medellin,Mouse,Tecnologia,45000,3,Efectivo
+486,15/04/2026,2,Luis Perez,Bogota,Jean,Ropa,130000,4,Tarjeta
+188,2026-02-10,2,Luis Perez,BOGOTA,Lampara,Hogar,85000,3,Efectivo
+259,2026-04-30,9,Paula Leon,Medellin,Teclado,Tecnologia,120000,1,transferencia
+342,2026-09-04,10,Diego Castro,Cali,Licuadora,Hogar,190000,2,Tarjeta
+271,2026-05-14,4,Carlos Ruiz,Cali,Laptop,Tecnologia,2500000,5,Tarjeta
+454,2026-07-16,7,Laura Rojas,Pitalito,Laptop,Tecnologia,2500000,1,Transferencia
+82,2026-02-08,5,Sofia Diaz,Neiva,Jean,,130000,5,Tarjeta
+471,2026-07-12,8,Andres Vega,Neiva, jean  ,Ropa,130000,3,Tarjeta
+351,2026-06-19,9,Paula Leon,Medellin, lampara  ,Hogar,85000,2,Efectivo
+341,2026-07-04,2,Luis Perez,,Teclado,Tecnologia,120000,1,Transferencia
+254,2026-04-11,1,Ana Torres,,Laptop,Tecnologia,2500000,5,Tarjeta
+460,2026-05-13,2,Luis Perez,Bogota,Licuadora,Hogar,190000,2,Transferencia
+370,2026-05-27,5,Sofia Diaz,Neiva,Zapatos,,210000,3,Tarjeta
+345,2026-06-26,8,Andres Vega,Neiva, laptop  ,Tecnologia,"$2,500,000",4,Efectivo
+325,2026-09-07,1,Ana Torres,Neiva,Teclado,Tecnologia,120000,,Efectivo
+54,2026-04-04,5,Sofia Diaz,Neiva,Jean,Ropa,130000,4,Efectivo
+358,27/01/2026,2,Luis Perez,Bogota,Teclado,Tecnologia,"$120,000",3,Transferencia
+172,2026-01-16,3,Maria Gomez,Medellin,Licuadora,Hogar,190000,4,Transferencia
+201,2026-05-31,8,Andres Vega,Neiva,Licuadora,Hogar,"$190,000",5,Tarjeta
+355,2026-04-08,4,Carlos Ruiz,,Audifonos,Tecnologia,180000,2,Transferencia
+140,2026-06-09,8,Andres Vega,Neiva,Teclado,Tecnologia,120000,1,Tarjeta
+347,2026-07-08,10,Diego Castro,Cali,Cafetera,,260000,5,Transferencia
+301,2026-03-03,3,Maria Gomez,Medellin,Jean,Ropa,130000,2,Efectivo
+67,2026-03-25,4,Carlos Ruiz,Cali,Jean,Ropa,"$130,000",5,Efectivo
+444,2026-09-27,5,Sofia Diaz,,Audifonos,Tecnologia,180000,2,Tarjeta
+281,2026-03-22,3,Maria Gomez,Medellin,Licuadora,Hogar,190000,2,Tarjeta
+312,2026-07-28,9,Paula Leon,Medellin,Mouse,Tecnologia,45000,5,Transferencia
+213,2026-02-08,7,Laura Rojas,PITALITO,Cafetera,Hogar,260000,,Transferencia
+228,09/04/2026,8,,Neiva,Laptop,Tecnologia,2500000,4,Efectivo
+264,2026-06-09,8,Andres Vega,Neiva,Teclado,Tecnologia,120000,3,Efectivo
+100,2026-04-12,2,Luis Perez,, camiseta  ,Ropa,55000,5,Efectivo
+353,2026-01-03,5,,Neiva,Audifonos,Tecnologia,180000,4,efectivo
+149,21/06/2026,8,Andres Vega,Neiva,Licuadora,Hogar,"$190,000",2,Transferencia
+16,2026-03-03,4,Carlos Ruiz,Cali,Camiseta,,55000,3,Transferencia
+164,29/01/2026,1,,Neiva,Licuadora,Hogar,190000,4,Transferencia
+307,2026-09-09,1,Ana Torres,Neiva,Laptop,Tecnologia,2500000,,Transferencia
+47,2026-01-06,9,Paula Leon,,Camiseta,Ropa,"$55,000",4,efectivo
+87,2026-08-12,8,,Neiva, laptop  ,Tecnologia,,1,Efectivo
+38,2026-04-13,2,Luis Perez,Bogota,Camiseta,Ropa,55000,2,Tarjeta
+448,2026-03-15,3,,Medellin, cafetera  ,Hogar,260000,3,Transferencia
+393,2026-02-08,10,Diego Castro,Cali,Licuadora,Hogar,190000,5,Transferencia
+406,2026-09-14,7,Laura Rojas,PITALITO, camiseta  ,Ropa,55000,3,efectivo
+207,2026-07-17,2,Luis Perez,Bogota,Camiseta,Ropa,55000,2,Tarjeta
+473,2026-09-17,8,Andres Vega,,Zapatos,Ropa,210000,1,transferencia
+250,2026-05-06,9,Paula Leon,Medellin, lampara  ,Hogar,85000,2,
+173,02/02/2026,10,Diego Castro,Cali, lampara  ,Hogar,"$85,000",4,Transferencia
+74,2026-03-27,5,Sofia Diaz,,Jean,Ropa,,1,
+296,2026-04-17,5,Sofia Diaz,NEIVA,Audifonos,Tecnologia,180000,2,Efectivo
+105,2026-02-21,2,Luis Perez,Bogota,Audifonos,Tecnologia,180000,5,Tarjeta
+327,2026-01-25,9,Paula Leon,Medellin,Jean,Ropa,130000,5,Efectivo
+481,2026-07-21,6,Juan Mora,Bogota,Laptop,Tecnologia,2500000,3,
+17,2026-02-13,5,Sofia Diaz,Neiva,Lampara,Hogar,85000,5,
+337,2026-01-10,1,Ana Torres,,Lampara,Hogar,85000,4,Efectivo
+92,21/06/2026,2,,Bogota, jean  ,,,5,tarjeta
+89,2026-02-05,4,Carlos Ruiz,Cali,Lampara,Hogar,85000,3,Efectivo
+409,2026-07-21,9,Paula Leon,Medellin,Teclado,Tecnologia,120000,4,Tarjeta
+141,2026-02-15,7,Laura Rojas,Pitalito,Jean,Ropa,,1,Tarjeta
+195,2026-05-09,5,Sofia Diaz,NEIVA, teclado  ,Tecnologia,,3,Tarjeta
+206,2026-03-17,1,Ana Torres,Neiva,Laptop,Tecnologia,2500000,,Efectivo
+103,16/08/2026,8,Andres Vega,Neiva,Lampara,Hogar,85000,5,Transferencia
+239,2026-02-15,3,Maria Gomez,Medellin,Camiseta,Ropa,55000,4,Efectivo
+477,2026-09-05,5,Sofia Diaz,Neiva, mouse  ,Tecnologia,45000,2,
+175,31/01/2026,3,,Medellin,Camiseta,Ropa,55000,1,Transferencia
+247,2026-09-19,8,Andres Vega,Neiva,Licuadora,Hogar,190000,4,Efectivo
+171,2026-09-18,9,Paula Leon,Medellin,Lampara,Hogar,85000,2,Tarjeta
+302,2026-05-10,10,Diego Castro,Cali,Teclado,Tecnologia,120000,5,Transferencia
+158,2026-07-05,1,Ana Torres,Neiva,Jean,Ropa,130000,3,Tarjeta
+294,2026-04-14,7,Laura Rojas,Pitalito,Mouse,Tecnologia,45000,4,tarjeta
+71,2026-03-22,1,Ana Torres,Neiva,Jean,Ropa,"$130,000",3,Transferencia
+134,21/08/2026,6,Juan Mora,Bogota,Zapatos,Ropa,210000,5,Tarjeta
+306,2026-02-07,4,Carlos Ruiz,Cali, laptop  ,Tecnologia,2500000,1,Transferencia
+320,2026-07-15,7,Laura Rojas,Pitalito,Mouse,Tecnologia,45000,5,Transferencia
+19,2026-08-16,9,Paula Leon,Medellin,Camiseta,Ropa,55000,2,Transferencia
+360,2026-02-20,10,Diego Castro,Cali,Teclado,Tecnologia,120000,3,Efectivo
+407,2026-01-25,2,Luis Perez,Bogota,Jean,Ropa,"$130,000",,Transferencia
+432,2026-06-20,5,Sofia Diaz,Neiva,Camiseta,Ropa,"$55,000",5,Efectivo
+363,2026-07-01,7,Laura Rojas,Pitalito,Teclado,Tecnologia,120000,3,Transferencia
+386,2026-02-03,4,Carlos Ruiz,Cali,Mouse,Tecnologia,45000,1,Transferencia
+35,2026-07-28,1,Ana Torres,Neiva, mouse  ,Tecnologia,"$45,000",4,Transferencia
+182,2026-02-16,5,Sofia Diaz,Neiva, cafetera  ,Hogar,260000,2,Tarjeta
+185,2026-05-01,6,Juan Mora,Bogota,Licuadora,Hogar,190000,1,Tarjeta
+208,2026-01-04,10,Diego Castro,CALI,Cafetera,,260000,3,Transferencia
+95,2026-04-27,9,Paula Leon,Medellin,Cafetera,Hogar,260000,3,Efectivo
+493,2026-05-09,3,Maria Gomez,Medellin,Audifonos,Tecnologia,180000,-1,Efectivo
+395,2026-07-04,10,Diego Castro,Cali,Licuadora,Hogar,190000,2,Efectivo
+123,2026-07-31,5,Sofia Diaz,Neiva,Licuadora,Hogar,190000,2,Transferencia
+359,2026-04-03,9,Paula Leon,Medellin,Jean,Ropa,130000,-1,Efectivo
+79,2026-04-10,2,Luis Perez,Bogota,Cafetera,Hogar,260000,-1,Transferencia
+62,2026-05-30,4,Carlos Ruiz,CALI,Mouse,Tecnologia,"$45,000",2,tarjeta
+68,2026-03-27,10,Diego Castro,Cali,Licuadora,Hogar,190000,2,Transferencia
+126,2026-04-10,4,Carlos Ruiz,Cali,Teclado,Tecnologia,120000,3,Efectivo
+338,2026-04-21,5,Sofia Diaz,Neiva,Jean,Ropa,130000,5,Tarjeta
+381,14/07/2026,6,Juan Mora,Bogota,Jean,Ropa,130000,2,Tarjeta
+147,2026-09-06,5,Sofia Diaz,NEIVA,Cafetera,Hogar,260000,,Tarjeta
+456,2026-01-14,3,Maria Gomez,Medellin,Camiseta,,55000,2,Transferencia
+295,02/05/2026,7,Laura Rojas,Pitalito,Licuadora,Hogar,190000,2,Transferencia
+442,2026-08-15,2,Luis Perez,Bogota,Cafetera,Hogar,260000,2,Tarjeta
+25,2026-06-26,7,Laura Rojas,Pitalito,Camiseta,Ropa,55000,3,
+348,2026-01-27,6,Juan Mora,Bogota,Cafetera,,,1,Tarjeta
+378,2026-04-22,7,Laura Rojas,Pitalito,Mouse,Tecnologia,"$45,000",1,Efectivo
+35,2026-07-28,1,Ana Torres,Neiva, mouse  ,Tecnologia,"$45,000",4,Transferencia
+127,2026-04-28,4,Carlos Ruiz,Cali,Cafetera,Hogar,260000,2,Tarjeta
+440,2026-08-21,3,Maria Gomez,Medellin,Licuadora,Hogar,190000,3,Tarjeta
+423,2026-09-04,7,Laura Rojas,Pitalito,Teclado,Tecnologia,120000,5,Transferencia
+179,22/05/2026,8,Andres Vega,Neiva,Laptop,Tecnologia,2500000,5,Transferencia
+469,2026-05-28,4,Carlos Ruiz,Cali,Camiseta,Ropa,55000,4,
+435,2026-09-27,8,Andres Vega,,Laptop,Tecnologia,"$2,500,000",4,Tarjeta
+224,2026-06-08,10,Diego Castro,Cali,Camiseta,Ropa,55000,4,Efectivo
+462,2026-02-11,4,Carlos Ruiz,Cali,Laptop,Tecnologia,2500000,2,
+94,10/06/2026,2,Luis Perez,, lampara  ,Hogar,85000,,Transferencia
+70,2026-09-10,10,Diego Castro,Cali,Teclado,Tecnologia,120000,1,Tarjeta
+37,2026-05-15,2,Luis Perez,BOGOTA,Lampara,Hogar,85000,4,Efectivo
+297,2026-03-20,1,Ana Torres,Neiva,Mouse,Tecnologia,45000,1,Efectivo
+161,2026-05-20,4,Carlos Ruiz,Cali,Laptop,Tecnologia,2500000,5,Transferencia
+12,2026-02-11,6,Juan Mora,Bogota,Laptop,Tecnologia,"$2,500,000",4,Transferencia
+145,17/08/2026,10,Diego Castro,Cali,Mouse,Tecnologia,45000,1,transferencia
+382,2026-02-13,3,Maria Gomez,Medellin,Teclado,Tecnologia,120000,1,Transferencia
+128,2026-03-22,3,Maria Gomez,Medellin,Zapatos,Ropa,210000,4,Transferencia
+309,24/01/2026,3,Maria Gomez,Medellin,Camiseta,Ropa,55000,,tarjeta
+303,20/07/2026,3,Maria Gomez,Medellin,Audifonos,Tecnologia,180000,2,Tarjeta
+10,2026-08-30,5,Sofia Diaz,Neiva,Lampara,Hogar,85000,4,Transferencia
+404,2026-07-16,5,Sofia Diaz,Neiva,Audifonos,Tecnologia,"$180,000",4,Efectivo
+177,02/05/2026,9,Paula Leon,Medellin,Laptop,Tecnologia,"$2,500,000",1,Transferencia
+232,2026-08-18,2,Luis Perez,Bogota, jean  ,Ropa,130000,2,Efectivo
+211,2026-05-16,4,Carlos Ruiz,Cali,Jean,Ropa,130000,5,Tarjeta
+129,2026-08-19,10,Diego Castro,Cali,Zapatos,Ropa,210000,3,Transferencia
+144,2026-05-13,6,Juan Mora,,Cafetera,Hogar,260000,2,efectivo
+242,2026-07-14,6,Juan Mora,Bogota,Lampara,Hogar,85000,2,Transferencia
+8,2026-08-12,9,,MEDELLIN,Laptop,Tecnologia,2500000,2,Efectivo
+299,2026-01-08,5,Sofia Diaz,NEIVA,Teclado,Tecnologia,120000,2,Efectivo
+311,2026-05-24,9,Paula Leon,Medellin,Teclado,Tecnologia,120000,4,Efectivo
+255,2026-09-09,2,Luis Perez,,Audifonos,Tecnologia,180000,4,Transferencia
+426,2026-06-18,4,Carlos Ruiz,,Teclado,Tecnologia,120000,1,Tarjeta
+362,2026-05-11,1,Ana Torres,Neiva,Laptop,Tecnologia,2500000,1,transferencia
+9,2026-07-09,8,Andres Vega,Neiva,Mouse,Tecnologia,45000,2,Tarjeta
+157,2026-02-03,7,Laura Rojas,Pitalito,Licuadora,Hogar,190000,1,Efectivo
+28,09/01/2026,7,Laura Rojas,Pitalito,Audifonos,Tecnologia,180000,2,efectivo
+267,2026-04-25,8,Andres Vega,Neiva,Camiseta,Ropa,"$55,000",5,Efectivo
+315,2026-07-18,4,Carlos Ruiz,Cali, laptop  ,Tecnologia,2500000,5,Tarjeta
+65,2026-06-15,2,Luis Perez,Bogota, audifonos  ,Tecnologia,180000,5,Transferencia
+256,2026-07-28,7,Laura Rojas,Pitalito,Cafetera,Hogar,260000,1,transferencia
+493,2026-05-09,3,Maria Gomez,Medellin,Audifonos,Tecnologia,180000,-1,Efectivo
+154,2026-05-10,7,Laura Rojas,Pitalito,Cafetera,Hogar,260000,1,Efectivo
+49,2026-01-26,6,Juan Mora,Bogota, mouse  ,Tecnologia,45000,4,Efectivo
+209,2026-04-23,9,Paula Leon,MEDELLIN,Cafetera,Hogar,260000,2,
+288,2026-06-26,5,Sofia Diaz,Neiva,Mouse,Tecnologia,"$45,000",2,transferencia
+2,2026-07-08,1,Ana Torres,Neiva,Licuadora,Hogar,190000,2,Tarjeta
+270,2026-07-09,9,Paula Leon,Medellin,Lampara,Hogar,85000,4,Efectivo
+266,23/01/2026,7,Laura Rojas,Pitalito,Mouse,Tecnologia,45000,4,Efectivo
+354,2026-05-07,6,Juan Mora,BOGOTA,Lampara,Hogar,85000,1,Tarjeta
+361,03/05/2026,5,Sofia Diaz,Neiva,Laptop,Tecnologia,2500000,2,Tarjeta
+96,2026-01-05,9,Paula Leon,Medellin,Cafetera,Hogar,,4,Tarjeta
+305,2026-02-21,8,Andres Vega,NEIVA,Licuadora,Hogar,190000,1,Efectivo
+43,02/08/2026,8,Andres Vega,Neiva, teclado  ,Tecnologia,120000,3,Transferencia
+343,2026-08-26,5,Sofia Diaz,NEIVA,Audifonos,Tecnologia,180000,4,Efectivo
+117,2026-01-29,9,Paula Leon,Medellin,Laptop,Tecnologia,2500000,1,Efectivo
+46,06/06/2026,9,Paula Leon,Medellin,Audifonos,Tecnologia,180000,3,Tarjeta
+162,2026-01-30,6,Juan Mora,BOGOTA,Cafetera,Hogar,260000,2,Transferencia
+417,29/03/2026,1,Ana Torres,Neiva,Licuadora,Hogar,190000,4,Tarjeta
+118,2026-01-27,7,Laura Rojas,Pitalito, lampara  ,Hogar,85000,5,Transferencia
+289,2026-09-10,6,Juan Mora,Bogota,Cafetera,Hogar,260000,3,
+78,13/08/2026,1,Ana Torres,NEIVA,Mouse,,45000,5,Tarjeta
+424,2026-05-27,10,Diego Castro,Cali,Teclado,Tecnologia,120000,3,Transferencia
+64,2026-07-16,8,Andres Vega,Neiva,Zapatos,Ropa,210000,5,Transferencia
+339,2026-06-27,9,Paula Leon,Medellin,Cafetera,Hogar,260000,2,
+425,07/06/2026,10,Diego Castro,Cali,Cafetera,Hogar,"$260,000",4,
+421,2026-02-16,7,Laura Rojas,Pitalito,Lampara,Hogar,85000,1,Transferencia
+231,27/04/2026,6,Juan Mora,Bogota,Audifonos,Tecnologia,"$180,000",5,Tarjeta
+298,2026-01-01,2,Luis Perez,Bogota,Licuadora,Hogar,190000,,Efectivo
+187,2026-03-11,7,Laura Rojas,Pitalito,Jean,Ropa,130000,4,Efectivo
+313,2026-03-09,3,Maria Gomez,Medellin,Teclado,Tecnologia,120000,5,Efectivo
+200,2026-04-08,6,Juan Mora,Bogota,Zapatos,Ropa,210000,5,Efectivo
+372,07/06/2026,4,Carlos Ruiz,Cali,Licuadora,,,3,transferencia
+122,2026-05-19,4,Carlos Ruiz,Cali,Jean,Ropa,130000,5,Transferencia
+311,2026-05-24,9,Paula Leon,Medellin,Teclado,Tecnologia,120000,4,Efectivo
+468,2026-08-10,5,Sofia Diaz,Neiva,Jean,Ropa,130000,1,Tarjeta
+308,2026-01-30,2,Luis Perez,BOGOTA,Laptop,Tecnologia,2500000,,Efectivo
+500,2026-08-28,9,Paula Leon,Medellin,Teclado,Tecnologia,120000,1,transferencia
+364,2026-03-10,3,Maria Gomez,MEDELLIN,Mouse,Tecnologia,45000,1,
+159,2026-07-15,5,Sofia Diaz,Neiva,Laptop,Tecnologia,,5,Efectivo
+86,06/08/2026,9,,Medellin,Mouse,Tecnologia,"$45,000",1,Transferencia
+226,2026-06-22,9,Paula Leon,MEDELLIN, licuadora  ,Hogar,190000,3,Efectivo
+263,2026-07-30,4,Carlos Ruiz,CALI,Jean,Ropa,130000,5,Transferencia
+332,2026-08-24,9,Paula Leon,Medellin,Teclado,Tecnologia,120000,5,Tarjeta
+446,2026-09-09,9,Paula Leon,Medellin,Zapatos,Ropa,"$210,000",2,Transferencia
+77,2026-09-13,10,Diego Castro,Cali,Laptop,Tecnologia,2500000,2,tarjeta
+422,2026-02-07,8,Andres Vega,Neiva,Teclado,Tecnologia,120000,2,Tarjeta
+405,2026-06-27,7,Laura Rojas,Pitalito,Audifonos,Tecnologia,180000,-1,Tarjeta
+88,2026-09-08,6,,Bogota, mouse  ,,45000,1,Efectivo
+202,2026-05-16,9,Paula Leon,Medellin, lampara  ,Hogar,"$85,000",4,Efectivo
+183,2026-04-12,2,,Bogota,Cafetera,Hogar,260000,5,Efectivo
+106,2026-02-08,10,Diego Castro,CALI,Audifonos,Tecnologia,180000,5,
+488,02/07/2026,7,Laura Rojas,Pitalito,Jean,Ropa,"$130,000",5,Tarjeta
+50,23/04/2026,8,Andres Vega,Neiva,Laptop,Tecnologia,2500000,4,Tarjeta
+459,05/03/2026,4,Carlos Ruiz,CALI,Audifonos,Tecnologia,180000,,Transferencia
+6,2026-08-11,5,Sofia Diaz,Neiva,Zapatos,Ropa,210000,3,Efectivo
+18,2026-03-26,1,Ana Torres,Neiva,Cafetera,Hogar,260000,4,Transferencia
+235,2026-04-16,7,Laura Rojas,Pitalito,Zapatos,Ropa,210000,1,Tarjeta
+437,2026-06-13,3,Maria Gomez,Medellin,Zapatos,Ropa,210000,4,Efectivo
+373,2026-08-17,3,Maria Gomez,Medellin,Cafetera,Hogar,260000,2,Transferencia
+431,2026-08-20,4,Carlos Ruiz,Cali,Audifonos,Tecnologia,180000,3,Transferencia
+107,2026-02-12,2,Luis Perez,Bogota,Jean,Ropa,130000,2,Efectivo
+135,21/06/2026,7,Laura Rojas,Pitalito,Lampara,Hogar,85000,1,Efectivo
+486,15/04/2026,2,Luis Perez,Bogota,Jean,Ropa,130000,4,Tarjeta
+227,2026-08-03,7,Laura Rojas,PITALITO,Camiseta,Ropa,55000,4,Efectivo
+215,2026-07-24,3,Maria Gomez,MEDELLIN,Zapatos,Ropa,210000,3,efectivo
+191,2026-06-15,4,Carlos Ruiz,Cali,Laptop,Tecnologia,,3,Transferencia
+479,2026-06-16,2,Luis Perez,,Camiseta,Ropa,55000,2,Efectivo
+321,2026-08-12,8,Andres Vega,Neiva,Audifonos,,180000,2,Tarjeta
+283,09/03/2026,6,Juan Mora,Bogota,Laptop,Tecnologia,2500000,4,Efectivo
+30,2026-03-05,1,Ana Torres,Neiva,Licuadora,Hogar,190000,5,Tarjeta
+170,2026-01-14,2,Luis Perez,BOGOTA,Laptop,Tecnologia,2500000,,Efectivo
+181,2026-03-01,1,Ana Torres,Neiva,Laptop,Tecnologia,"$2,500,000",5,Efectivo
+101,2026-09-17,7,Laura Rojas,Pitalito,Mouse,Tecnologia,45000,5,Tarjeta
+198,27/03/2026,7,Laura Rojas,Pitalito,Zapatos,Ropa,210000,2,Transferencia
+210,12/06/2026,3,Maria Gomez,Medellin,Mouse,Tecnologia,45000,4,Tarjeta
+136,2026-01-23,6,,Bogota,Cafetera,Hogar,,3,
+169,2026-09-03,7,Laura Rojas,Pitalito,Teclado,Tecnologia,120000,1,Tarjeta
+466,2026-02-15,4,Carlos Ruiz,Cali,Licuadora,,190000,1,Tarjeta
+199,2026-02-23,6,Juan Mora,Bogota, audifonos  ,Tecnologia,180000,3,Efectivo
+374,2026-07-25,2,Luis Perez,Bogota,Camiseta,Ropa,55000,,Transferencia
+167,2026-05-03,3,Maria Gomez,Medellin,Teclado,Tecnologia,120000,1,Transferencia
+419,06/08/2026,4,Carlos Ruiz,Cali,Licuadora,Hogar,190000,1,Tarjeta
+137,2026-09-17,2,Luis Perez,Bogota,Cafetera,Hogar,260000,5,Tarjeta
+286,2026-09-01,7,Laura Rojas,Pitalito,Licuadora,Hogar,190000,2,Transferencia
+336,2026-04-24,2,Luis Perez,Bogota,Lampara,Hogar,85000,5,Efectivo
+397,2026-01-15,7,Laura Rojas,Pitalito,Zapatos,Ropa,210000,4,Efectivo
+414,02/09/2026,8,Andres Vega,Neiva,Jean,Ropa,130000,2,Efectivo
+132,2026-06-20,8,Andres Vega,Neiva,Jean,Ropa,130000,1,Tarjeta
+40,2026-02-01,4,Carlos Ruiz,Cali,Laptop,Tecnologia,2500000,2,Transferencia
+216,2026-02-14,8,Andres Vega,,Mouse,Tecnologia,"$45,000",3,Transferencia
+44,2026-01-27,1,Ana Torres,Neiva,Teclado,Tecnologia,120000,3,Transferencia
+55,2026-02-10,1,Ana Torres,,Teclado,Tecnologia,"$120,000",5,Efectivo
+306,2026-02-07,4,Carlos Ruiz,Cali, laptop  ,Tecnologia,2500000,1,Transferencia
+300,2026-07-30,6,Juan Mora,Bogota,Camiseta,Ropa,"$55,000",3,Transferencia
+496,2026-02-17,6,Juan Mora,Bogota, camiseta  ,Ropa,55000,1,Tarjeta
+305,2026-02-21,8,Andres Vega,NEIVA,Licuadora,Hogar,190000,1,Efectivo
+36,2026-02-13,8,Andres Vega,Neiva,Camiseta,Ropa,55000,5,Efectivo
+316,2026-08-04,6,Juan Mora,Bogota,Audifonos,Tecnologia,180000,1,Efectivo
+400,2026-09-26,6,Juan Mora,Bogota,Laptop,Tecnologia,,2,Tarjeta
+310,2026-08-18,7,Laura Rojas,Pitalito,Jean,,130000,3,Tarjeta
+277,2026-04-04,3,Maria Gomez,Medellin,Lampara,Hogar,85000,5,
+125,2026-02-14,5,Sofia Diaz,Neiva,Camiseta,Ropa,55000,3,Efectivo
+143,2026-07-16,6,Juan Mora,Bogota,Zapatos,Ropa,210000,4,Transferencia
+111,2026-08-12,4,Carlos Ruiz,Cali,Licuadora,Hogar,190000,2,Transferencia
+324,2026-05-17,8,Andres Vega,Neiva,Mouse,Tecnologia,45000,1,Transferencia
+333,2026-02-20,7,Laura Rojas,Pitalito,Zapatos,Ropa,210000,3,Efectivo
+394,07/05/2026,4,Carlos Ruiz,,Cafetera,Hogar,260000,5,
+475,2026-01-17,9,Paula Leon,Medellin,Laptop,Tecnologia,2500000,,transferencia
+108,2026-02-01,5,Sofia Diaz,NEIVA,Mouse,Tecnologia,"$45,000",3,Tarjeta
+482,2026-07-11,4,Carlos Ruiz,Cali,Licuadora,Hogar,"$190,000",3,Tarjeta
+13,2026-04-09,8,Andres Vega,Neiva,Lampara,Hogar,85000,5,Efectivo
+273,2026-04-05,1,Ana Torres,,Laptop,Tecnologia,2500000,2,Efectivo
+48,2026-04-27,7,Laura Rojas,Pitalito,Cafetera,Hogar,,2,Efectivo
+204,2026-05-14,4,Carlos Ruiz,Cali,Licuadora,Hogar,190000,1,Tarjeta
+498,2026-01-15,3,Maria Gomez,Medellin,Audifonos,,180000,3,Efectivo
+120,2026-07-30,6,Juan Mora,Bogota, licuadora  ,Hogar,190000,4,Efectivo
+22,29/06/2026,8,Andres Vega,Neiva,Cafetera,Hogar,260000,3,Transferencia
+403,2026-02-11,4,Carlos Ruiz,Cali,Camiseta,,55000,5,Efectivo
+435,2026-09-27,8,Andres Vega,,Laptop,Tecnologia,"$2,500,000",4,Tarjeta
+84,2026-02-02,10,Diego Castro,,Zapatos,Ropa,,2,Efectivo
+131,2026-02-24,7,Laura Rojas,PITALITO,Camiseta,Ropa,55000,5,Efectivo
+483,2026-09-09,1,Ana Torres,Neiva,Jean,Ropa,130000,4,Efectivo
+384,2026-05-13,3,Maria Gomez,Medellin,Jean,Ropa,,3,Efectivo
+330,2026-06-29,4,Carlos Ruiz,Cali, teclado  ,Tecnologia,120000,5,Transferencia
+230,2026-07-27,6,Juan Mora,Bogota,Camiseta,Ropa,55000,4,Transferencia
+66,2026-01-11,3,,Medellin,Teclado,Tecnologia,120000,1,Efectivo
+287,2026-02-16,2,Luis Perez,Bogota,Camiseta,Ropa,55000,3,Tarjeta
+124,2026-03-13,3,Maria Gomez,Medellin,Zapatos,Ropa,210000,1,Tarjeta
+34,2026-02-15,4,Carlos Ruiz,,Licuadora,Hogar,"$190,000",2,Tarjeta
+276,2026-07-23,10,Diego Castro,CALI,Lampara,Hogar,85000,3,Efectivo
+5,2026-02-19,4,Carlos Ruiz,Cali,Jean,Ropa,130000,5,Transferencia
+412,2026-07-19,8,Andres Vega,Neiva,Audifonos,Tecnologia,,2,Efectivo
+20,04/07/2026,3,Maria Gomez,Medellin,Teclado,Tecnologia,120000,4,
+220,2026-07-23,9,Paula Leon,Medellin,Laptop,Tecnologia,2500000,,Efectivo
+380,2026-08-25,6,Juan Mora,Bogota,Licuadora,Hogar,190000,4,Efectivo
+68,2026-03-27,10,Diego Castro,Cali,Licuadora,Hogar,190000,2,Transferencia
+420,2026-08-21,10,Diego Castro,Cali,Cafetera,Hogar,260000,4,Tarjeta
+357,2026-01-07,4,Carlos Ruiz,Cali, laptop  ,Tecnologia,2500000,,Transferencia
+150,2026-03-26,6,Juan Mora,Bogota,Audifonos,Tecnologia,180000,2,
+225,14/03/2026,1,Ana Torres,Neiva,Laptop,Tecnologia,"$2,500,000",2,Transferencia
+248,2026-02-03,1,Ana Torres,Neiva,Audifonos,Tecnologia,180000,2,Tarjeta
+480,2026-03-20,10,Diego Castro,,Zapatos,Ropa,"$210,000",2,Transferencia
+152,14/04/2026,8,Andres Vega,NEIVA,Camiseta,,55000,1,Transferencia
+290,2026-09-17,10,Diego Castro,Cali,Laptop,,"$2,500,000",4,Tarjeta
+318,2026-01-22,9,Paula Leon,Medellin,Audifonos,Tecnologia,180000,5,Tarjeta
+341,2026-07-04,2,Luis Perez,,Teclado,Tecnologia,120000,1,Transferencia
+292,2026-05-03,10,Diego Castro,Cali,Laptop,Tecnologia,2500000,2,Efectivo
+234,2026-04-18,1,Ana Torres,Neiva,Mouse,Tecnologia,45000,5,Transferencia
+11,2026-04-09,2,Luis Perez,Bogota,Cafetera,Hogar,260000,3,Efectivo
+280,2026-06-26,7,Laura Rojas,Pitalito,Jean,Ropa,130000,1,Tarjeta
+72,2026-08-29,2,Luis Perez,Bogota,Lampara,Hogar,85000,1,Transferencia
+253,2026-05-01,10,Diego Castro,Cali,Teclado,,120000,5,Tarjeta
+93,2026-07-22,2,Luis Perez,BOGOTA, cafetera  ,Hogar,260000,3,Tarjeta
+429,2026-09-17,9,Paula Leon,Medellin,Cafetera,Hogar,260000,4,Efectivo
+350,2026-04-12,10,Diego Castro,Cali, lampara  ,Hogar,85000,5,Transferencia
+416,2026-04-29,5,Sofia Diaz,Neiva,Camiseta,Ropa,55000,2,Tarjeta
+375,12/06/2026,3,Maria Gomez,MEDELLIN,Laptop,Tecnologia,2500000,5,efectivo
+401,2026-04-18,1,Ana Torres,NEIVA,Licuadora,Hogar,190000,3,Transferencia
+193,2026-08-15,5,Sofia Diaz,Neiva, mouse  ,Tecnologia,"$45,000",2,Transferencia
+258,2026-03-05,10,Diego Castro,Cali,Laptop,Tecnologia,"$2,500,000",1,Efectivo
+143,2026-07-16,6,Juan Mora,Bogota,Zapatos,Ropa,210000,4,Transferencia
+340,2026-02-10,5,Sofia Diaz,Neiva,Zapatos,Ropa,210000,2,Transferencia
+73,2026-03-02,9,Paula Leon,Medellin, licuadora  ,Hogar,190000,5,Tarjeta
+196,04/06/2026,1,Ana Torres,NEIVA,Teclado,Tecnologia,120000,2,Efectivo
+484,12/03/2026,7,Laura Rojas,Pitalito,Camiseta,Ropa,"$55,000",2,efectivo
+344,2026-04-13,7,Laura Rojas,,Licuadora,Hogar,"$190,000",3,Efectivo
+138,2026-06-10,5,Sofia Diaz,Neiva,Licuadora,Hogar,190000,3,Transferencia
+495,2026-04-22,1,Ana Torres,Neiva,Licuadora,Hogar,190000,2,Tarjeta
+261,2026-07-08,5,Sofia Diaz,Neiva,Cafetera,Hogar,260000,5,Efectivo
+39,13/06/2026,7,Laura Rojas,Pitalito,Zapatos,Ropa,210000,2,Transferencia
+463,2026-05-18,1,Ana Torres,NEIVA,Teclado,Tecnologia,"$120,000",1,Tarjeta
+202,2026-05-16,9,Paula Leon,Medellin, lampara  ,Hogar,"$85,000",4,Efectivo
+250,2026-05-06,9,Paula Leon,Medellin, lampara  ,Hogar,85000,2,
+291,2026-01-14,1,Ana Torres,Neiva,Teclado,,120000,2,Efectivo
+449,03/05/2026,7,Laura Rojas,Pitalito,Teclado,Tecnologia,120000,1,Transferencia
+190,2026-02-06,10,Diego Castro,Cali,Mouse,Tecnologia,45000,5,Tarjeta
+252,2026-05-30,3,Maria Gomez,Medellin,Laptop,Tecnologia,"$2,500,000",3,Transferencia
+113,2026-05-14,1,,Neiva,Jean,Ropa,130000,1,Transferencia
+438,2026-03-11,4,Carlos Ruiz,,Teclado,Tecnologia,120000,3,
+184,2026-07-31,6,Juan Mora,Bogota,Camiseta,Ropa,55000,,Efectivo
+153,2026-09-14,6,Juan Mora,,Mouse,Tecnologia,45000,5,Efectivo
+313,2026-03-09,3,Maria Gomez,Medellin,Teclado,Tecnologia,120000,5,Efectivo
+326,2026-06-07,6,Juan Mora,Bogota,Lampara,Hogar,85000,2,Tarjeta
+192,2026-06-21,5,,,Zapatos,Ropa,210000,5,Efectivo
+45,10/07/2026,5,Sofia Diaz,Neiva,Mouse,Tecnologia,45000,2,Transferencia
+445,2026-01-08,2,Luis Perez,Bogota,Lampara,Hogar,85000,3,Efectivo
+7,2026-01-25,3,Maria Gomez,Medellin,Camiseta,Ropa,55000,3,Transferencia
+251,2026-01-20,5,Sofia Diaz,Neiva,Teclado,Tecnologia,120000,4,Efectivo
+76,2026-07-21,8,Andres Vega,Neiva,Laptop,Tecnologia,2500000,2,
+120,2026-07-30,6,Juan Mora,Bogota, licuadora  ,Hogar,190000,4,Efectivo
+392,2026-05-24,6,Juan Mora,Bogota,Camiseta,Ropa,55000,4,Tarjeta
+433,2026-04-19,3,Maria Gomez,Medellin,Licuadora,Hogar,190000,,Transferencia
+69,2026-06-17,3,Maria Gomez,Medellin,Zapatos,Ropa,210000,3,Transferencia
+168,2026-02-23,9,,Medellin,Cafetera,Hogar,260000,1,Transferencia
+367,2026-06-08,10,Diego Castro,CALI,Audifonos,Tecnologia,180000,1,efectivo
+346,2026-06-03,10,Diego Castro,Cali,Cafetera,Hogar,260000,3,Tarjeta
+399,2026-03-19,5,Sofia Diaz,Neiva,Jean,Ropa,130000,4,Transferencia
+186,23/03/2026,6,Juan Mora,Bogota,Lampara,Hogar,85000,3,
+349,2026-05-04,8,Andres Vega,Neiva,Camiseta,Ropa,55000,,Tarjeta
+212,2026-07-28,5,Sofia Diaz,Neiva,Lampara,Hogar,85000,,tarjeta
+48,2026-04-27,7,Laura Rojas,Pitalito,Cafetera,Hogar,,2,Efectivo
+197,28/05/2026,8,Andres Vega,Neiva,Jean,Ropa,130000,4,Efectivo
+176,2026-07-21,6,Juan Mora,Bogota,Jean,Ropa,130000,3,
